@@ -1,0 +1,33 @@
+\documentclass[11pt]{book}                  % ← Changed to 'book' class
+\usepackage{graphicx} 
+\usepackage{amsmath}                         % Optional: for math if needed
+
+% Graphics path - tells LaTeX where your images are
+\graphicspath{{images/}}                     % Matches your images folder
+
+\title{SpeciesBook}
+\author{Rui Monteiro}
+\date{February 2026}
+
+\begin{document}
+
+\frontmatter                                 % ← Roman numerals, unnumbered chapters
+
+\maketitle                                   % Your title page
+
+\tableofcontents                             % Auto-generated TOC
+
+\input{frontmatter/preface}                  % Your preface (if you create one)
+
+\mainmatter                                  % ← Arabic numerals, numbered chapters
+
+\include{chapters/chapter_01}                  % Your first chapter
+\include{chapters/chapter_02}                  % Your second chapter
+% Add more chapters as you create them
+
+\backmatter                                   % ← Unnumbered back matter
+
+% \input{backmatter/appendix}                   % Optional appendix
+% \input{backmatter/bibliography}               % Optional bibliography
+
+\end{document}
