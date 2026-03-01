@@ -50,4 +50,7 @@ or, if you can't find the file, simple delete the entire folder structure
 ```
 C:\Users\rui\texlive\
 ```
-
+Also remove
+```
+.texlive2025
+```
