@@ -24,3 +24,30 @@ latexmk -C
 del main.pdf
 latexmk -pdf -f main.tex
 ```
+
+# If missing too many packages run as administrator the following command
+```sh
+tlmgr update --self --all
+```
+
+# To avoid annoying missing installs
+Always do a full Scheme installation
+```
+Scheme: full
+```
+
+So, AVOID the following:
+- Non-admin install
+- Custom install
+- Minimal install
+
+# How to properly uninstall TeX Live
+```
+cd C:\Users\rui\texlive\2025
+uninstall-tl-windows.bat
+```
+or, if you can't find the file, simple delete the entire folder structure
+```
+C:\Users\rui\texlive\
+```
+
