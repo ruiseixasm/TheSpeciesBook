@@ -15,7 +15,7 @@ pdflatex --version
 
 # Run the following commands to create the respective pdf file
 ```sh
-pdflatex main.tex
+latexmk -pdf main.tex
 ```
 
 # If needed to do a clean compilation, type this first
