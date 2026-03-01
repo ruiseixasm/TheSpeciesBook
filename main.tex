@@ -4,13 +4,20 @@
 \usepackage[
     backend=biber,
     style=numeric,
-    refsection=chapter,
-    backref=true
+    refsection=chapter
 ]{biblatex}
 
 \addbibresource{references.bib}
 
-\defbibheading{subbibliography}{\section*{References}}
+% Hide page number in citation
+\DeclareFieldFormat{postnote}{}
+
+% Print page number at end of bibliography entry
+\renewbibmacro*{finentry}{%
+  \iffieldundef{postnote}
+    {}
+    {\addspace p.~\printfield{postnote}}%
+  \finentry}
 
 \title{SpeciesBook}
 \author{Rui Seixas Monteiro}
