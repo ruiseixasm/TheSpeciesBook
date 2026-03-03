@@ -54,3 +54,9 @@ Also remove
 ```
 .texlive2025
 ```
+
+# .latexmkrc file
+If existent, just run
+```
+latexmk main.tex
+```
