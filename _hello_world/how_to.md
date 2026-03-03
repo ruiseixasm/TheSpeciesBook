@@ -73,3 +73,21 @@ Language Keyword	Environment					bookcovercomponent
 Inheritance			Classes building on others	book class inherits from article
 ```
 
+
+# Two Syntaxes, One Purpose
+Just like in English you can say:
+
+"I ate the apple" (command form)
+
+"The apple was eaten by me" (environment form)
+
+They mean the same thing, just different ways of expressing it.
+
+
+# The Two Forms Side by Side
+```
+Command Form (shorter)						Environment Form (your template)
+\bookcovercomponent{color}{bg whole}{black}	\begin{bookcoverelement}{color}{bg whole} black \end{bookcoverelement}
+One line, compact							Multiple lines, clearer for long content
+```
+
