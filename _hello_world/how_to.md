@@ -69,6 +69,7 @@ Method / Function	Package						\usepackage{graphicx}
 Object instance		Your .tex document			main.tex
 Method call			Command in your document	\includegraphics{image.png}
 Method parameters	Package options				\usepackage[backend=biber]{biblatex}
+Language Keyword	Environment					bookcovercomponent
 Inheritance			Classes building on others	book class inherits from article
 ```
 
