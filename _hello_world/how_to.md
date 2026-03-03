@@ -60,3 +60,15 @@ If existent, just run
 ```
 latexmk main.tex
 ```
+
+```
+The OOP to LaTeX Mapping
+OOP Concept			LaTeX Equivalent			Your Example
+Class				Document Class				\documentclass{book}
+Method / Function	Package						\usepackage{graphicx}
+Object instance		Your .tex document			main.tex
+Method call			Command in your document	\includegraphics{image.png}
+Method parameters	Package options				\usepackage[backend=biber]{biblatex}
+Inheritance			Classes building on others	book class inherits from article
+```
+
