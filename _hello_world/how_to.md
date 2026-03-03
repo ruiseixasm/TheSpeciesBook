@@ -61,8 +61,8 @@ If existent, just run
 latexmk main.tex
 ```
 
+# The OOP to LaTeX Mapping
 ```
-The OOP to LaTeX Mapping
 OOP Concept			LaTeX Equivalent			Your Example
 Class				Document Class				\documentclass{book}
 Method / Function	Package						\usepackage{graphicx}
