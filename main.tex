@@ -1,5 +1,7 @@
 \documentclass[11pt]{book}
+\usepackage{titlepic}
 \usepackage{graphicx}
+\titlepic{\includegraphics[width=\textwidth]{images/front_cover.png}}
 \usepackage{amsmath}
 \usepackage[paperwidth=15.6cm, paperheight=23.4cm]{geometry}
 \usepackage[
@@ -28,6 +30,7 @@
 
 \frontmatter
 \maketitle
+\thispagestyle{empty}  % ← Removes page numbering
 \tableofcontents
 \input{frontmatter/preface}
 
