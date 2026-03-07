@@ -1,7 +1,7 @@
 \documentclass[
-    coverwidth=15cm,
-    coverheight=20cm,
-    spinewidth=25mm,
+    coverwidth=16cm,
+    coverheight=24cm,
+    spinewidth=15mm,
     flapwidth=6cm,
     wrapwidth=5mm,
     ]{bookcover}
@@ -31,9 +31,16 @@
     black
 \end{bookcoverelement}
 
-% Background picture on the whole cover without flaps
-\begin{bookcoverelement}{picture}{bg whole without flaps}
-    ./figures/bookcover-bg.jpg
+% Front cover image (controlled scaling)
+\begin{bookcoverelement}{normal}{front}
+    \centering
+    \includegraphics[width=\partwidth,keepaspectratio]{./figures/front_cover_bg.jpg}
+\end{bookcoverelement}
+
+% Back cover image (controlled scaling)
+\begin{bookcoverelement}{normal}{back}
+    \centering
+    \includegraphics[width=\partwidth,keepaspectratio]{./figures/back_cover_bg.png}
 \end{bookcoverelement}
 
 % Transparent areas on the back cover
