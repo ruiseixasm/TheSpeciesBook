@@ -56,36 +56,33 @@
     (part.north east) rectangle ([xshift=-25mm]part.south east);
 \end{bookcoverelement}
 
-% Picture on the front cover behind the title
-\begin{bookcoverelement}{center}{front}
-    \includegraphics{./figures/bookcover-cards.pdf}
-\end{bookcoverelement}
-
-% Author and title on the front cover
-\begin{bookcoverelement}{normal}{front}[,,,5cm]
+\begin{bookcoverelement}{normal}{front}[,,,1cm]
     \centering
-    \color{yellow!60!black}\sffamily\bfseries
-    \resizebox{!}{5mm}{\contour{black}{Rose Taylor}}\\[26mm]
-    \resizebox{!}{7mm}{\contour{black}{GAMBLING SYSTEMS}}\\[8mm]
-    \resizebox{!}{7mm}{\contour{black}{AND STRATEGIES}}\\
+    \color{yellow!60!black}
+    \sffamily\bfseries
+
+    {\fontsize{12pt}{12pt}\selectfont
+    \contour{black}{Rui Seixas Monteiro}}\par\vspace{14mm}
+
+    {\scalebox{3}{\contour{black}{THE SPECIES BOOK}}}\par\vspace{8mm}
+
+    {\fontsize{14pt}{14pt}\selectfont
+    \contour{black}{on}}\par\vspace{8mm}
+
+    {\fontsize{18pt}{18pt}\selectfont
+    \contour{black}{the Will of the Species and How to Defeat It}}
+
 \end{bookcoverelement}
 
 % Title on the spine
 \begin{bookcoverelement}{center rotate}{spine}
     \color{yellow!60!black}\huge\sffamily\bfseries
-    \contour{black}{Rose Taylor -- Gambling Systems and Strategies}
+    \contour{black}{Rui Seixas Monteiro -- The Species Book}
 \end{bookcoverelement}
 
 % Text on the back cover
 \begin{bookcoverelement}{normal}{back}[2cm,2cm,2cm,2cm]
     \color{white}\kant[1]
-\end{bookcoverelement}
-
-% Text and picture on the front flap
-\begin{bookcoverelement}{normal}{front flap}[1cm,1cm,1cm,2cm]
-    \color{white}\kant[2]
-    \vfill
-    {\centering\includegraphics{./figures/bookcover-dice.pdf}\par}
 \end{bookcoverelement}
 
 % Text on the back flap
