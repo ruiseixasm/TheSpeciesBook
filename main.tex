@@ -2,7 +2,7 @@
 \usepackage{titlepic}
 \usepackage{graphicx}
 \usepackage{amsmath}
-\usepackage{epigraph}
+\usepackage{epigraph, fancyhdr}
 \usepackage[paperwidth=15.6cm, paperheight=23.4cm,
             left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
 \usepackage[
@@ -10,6 +10,25 @@
     style=numeric,
     refsection=chapter
 ]{biblatex}
+
+
+% Make parts produce marks
+\renewcommand{\partmark}[1]{\markboth{\thepart\quad #1}{}}
+
+\pagestyle{fancy}
+\fancyhf{} % Clear defaults
+
+% Page numbers in OUTSIDE corners
+\fancyhead[RO]{\thepage} % Odd pages: page number right
+\fancyhead[LE]{\thepage} % Even pages: page number left
+
+% Chapter on odd pages (right side of book)
+\fancyhead[LO]{\nouppercase{\leftmark}} % Left side of odd pages gets chapter
+
+% Part on even pages (left side of book)
+\fancyhead[RE]{\nouppercase{\leftmark}} % Right side of even pages gets part (from leftmark)
+
+
 
 \addbibresource{references.bib}
 
