@@ -13,12 +13,12 @@
 
 ## PART 1: Introduction
 
-### CHAPTER 1: Human Cognitive Bias
+### Human Cognitive Bias
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### CHAPTER 2: Premise
+### Premise
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
@@ -26,24 +26,30 @@
 
 ## PART 3: From Material to Logic
 
-### Chapter 4: Formal Logicism
+### Formal Logicism
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### CHAPTER 5: Protocolism
+### Protocolism
 - [ ] Reference resources
 - [ ] Sections as analogous examples, analog to digital, Morse code, OSI layers...
 - [ ] Daily common examples of protocol adherence.
 - [ ] Citations
 - [ ] 
 
-### CHAPTER 6: Primordial Sex
+### Primordial Sex
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### CHAPTER 5a: The Species
+### The Species
+- [ ] Reference resources concerning speciation
+- [ ] As the definitive center
+- [ ] Citations
+- [ ] 
+
+### Chaos and its Tamer
 - [ ] Reference resources concerning speciation
 - [ ] As the definitive center
 - [ ] Citations
@@ -52,17 +58,17 @@
 
 ## PART 4: Species and Scapegoats
 
-### Chapter 7: Social prejudice 
+### Social prejudice 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 8: Neanderthales Über Alles 
+### Neanderthales Über Alles 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 9: Natural vs Sexual 
+### Natural vs Sexual 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
