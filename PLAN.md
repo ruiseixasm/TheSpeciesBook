@@ -59,9 +59,14 @@
 - [ ] 
 
 
-## PART 4: Species and Scapegoats
+## PART 4: You are not the Center
 
-### Social prejudice 
+### Species and Scapegoats
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+### Social prejudice
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
@@ -75,9 +80,6 @@
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
-
-
-## PART 5: You are not the Center
 
 
 
