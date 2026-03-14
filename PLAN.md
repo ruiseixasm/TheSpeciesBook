@@ -24,7 +24,7 @@
 - [ ] 
 
 
-## PART 3: From Materialism to Logicism
+## PART 3: From Material to Logic
 
 ### Chapter 4: Formal Logicism
 - [ ] Reference resources
