@@ -34,11 +34,18 @@
 ### CHAPTER 5: Protocolism
 - [ ] Reference resources
 - [ ] Sections as analogous examples, analog to digital, Morse code, OSI layers...
+- [ ] Daily common examples of protocol adherence.
 - [ ] Citations
 - [ ] 
 
 ### CHAPTER 6: Primordial Sex
 - [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+### CHAPTER 5a: The Species
+- [ ] Reference resources concerning speciation
+- [ ] As the definitive center
 - [ ] Citations
 - [ ] 
 
