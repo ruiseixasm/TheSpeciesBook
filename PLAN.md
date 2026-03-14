@@ -61,7 +61,7 @@
 
 ## PART 4: You are not the Center
 
-### Species and Scapegoats
+### Species, Scapegoats and their Martyrs
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
