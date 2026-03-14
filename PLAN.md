@@ -87,5 +87,18 @@
 - [ ] 
 
 
+## PART 5: The Defeat fo the Will
+
+### The Hard Way 
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+### The Easy Way 
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+
 
 
