@@ -66,6 +66,11 @@
 - [ ] Citations
 - [ ] 
 
+### The Fictional Hero
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
 ### Social prejudice
 - [ ] Reference resources
 - [ ] Citations
