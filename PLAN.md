@@ -33,6 +33,8 @@
 
 ### Protocolism
 - [ ] Reference resources
+- [ ] Emitter receiver logic
+- [ ] Clock cycles as a selector
 - [ ] Sections as analogous examples, analog to digital, Morse code, OSI layers...
 - [ ] Daily common examples of protocol adherence.
 - [ ] Citations
@@ -72,6 +74,9 @@
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
+
+
+## PART 5: You are not the Center
 
 
 
