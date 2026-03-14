@@ -43,14 +43,19 @@
 - [ ] 
 
 
-## PART 4: Species Scapegoating
+## PART 4: Species and Scapegoats
 
-### Chapter 7: Neanderthales Über Alles 
+### Chapter 7: Social prejudice 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 8: Natural vs Sexual 
+### Chapter 8: Neanderthales Über Alles 
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+### Chapter 9: Natural vs Sexual 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
