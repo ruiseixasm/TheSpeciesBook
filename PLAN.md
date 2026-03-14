@@ -24,40 +24,37 @@
 - [ ] 
 
 
-## PART 2: The Original Sin
-
-### CHAPTER 3: Primordial Sex
-- [ ] Reference resources
-- [ ] Citations
-- [ ] 
-
-
-## PART 3: Materialism vs Logicism
+## PART 3: From Materialism to Logicism
 
 ### Chapter 4: Formal Logicism
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 5: Formal Logicism
+### CHAPTER 5: Protocolism
+- [ ] Reference resources
+- [ ] Sections as analogous examples, analog to digital, Morse code, OSI layers...
+- [ ] Citations
+- [ ] 
+
+### CHAPTER 6: Primordial Sex
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 6: Neanderthales Über Alles 
+
+## PART 4: Species Scapegoating
+
+### Chapter 7: Neanderthales Über Alles 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Chapter 7: Natural vs Sexual 
+### Chapter 8: Natural vs Sexual 
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### CHAPTER 8: Protocolism
-- [ ] Reference resources
-- [ ] Citations
-- [ ] 
 
 
 
