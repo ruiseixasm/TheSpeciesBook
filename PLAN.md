@@ -31,6 +31,11 @@
 - [ ] Citations
 - [ ] 
 
+### Gravity vs Intermolecular Forces
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
 ### Protocolism
 - [ ] Reference resources
 - [ ] Emitter receiver logic
