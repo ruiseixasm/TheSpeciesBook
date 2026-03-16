@@ -76,18 +76,31 @@
 - [ ] Citations
 - [ ] 
 
-### Neanderthales Über Alles 
+### Neanderthales Über Alles
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
-### Natural vs Sexual 
+### Natural vs Sexual
 - [ ] Reference resources
 - [ ] Citations
 - [ ] 
 
 
-## PART 5: The Defeat fo the Will
+## PART 5: Implications
+
+### Drugs and Rock & Roll
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+### Chaos and Tamers
+- [ ] Reference resources
+- [ ] Citations
+- [ ] 
+
+
+## PART 6: The Defeat fo the Will
 
 ### The Hard Way 
 - [ ] Reference resources
