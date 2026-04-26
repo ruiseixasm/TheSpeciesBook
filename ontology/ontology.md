@@ -5,6 +5,9 @@ ontology.
 
 # Origins of Sex, Margulis et Sagan
 
+## Axoneme
+The central core of a cilium or flagellum, consisting of a precise array of microtubules that generates bending movement through the action of dynein motor proteins.
+
 ## Cytology
 1. The branch of biology and medicine concerned with the structure, function, and pathology of cells.
 2. The microscopic examination of individual cells (as opposed to tissues) obtained from the body, used especially to screen for cancer, infection, or inflammatory conditions.
@@ -20,6 +23,9 @@ A large motor protein that "walks" along microtubules, transporting cellular car
 
 ## Kinesin
 A motor protein that "walks" along microtubules, transporting cellular cargo (vesicles, organelles, proteins, mRNA) toward the plus end of the microtubule — typically the cell periphery.
+
+## Kinetosome
+A cylindrical structure found at the base of a single cilium or flagellum that organizes and anchors its microtubules.
 
 ## Organelle
 A tiny cellular structure that carries out a particular job (e.g., energy production, protein synthesis, waste disposal) within the cytoplasm.
