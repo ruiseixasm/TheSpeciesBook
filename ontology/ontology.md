@@ -8,6 +8,9 @@ ontology.
 ## Axoneme
 The central core of a cilium or flagellum, consisting of a precise array of microtubules that generates bending movement through the action of dynein motor proteins.
 
+## Cilium
+A single, short, hair-like structure projecting from the cell surface, containing an axoneme (microtubule core) and capable of rhythmic beating.
+
 ## Cytology
 1. The branch of biology and medicine concerned with the structure, function, and pathology of cells.
 2. The microscopic examination of individual cells (as opposed to tissues) obtained from the body, used especially to screen for cancer, infection, or inflammatory conditions.
@@ -20,6 +23,9 @@ The network of protein fibers and filaments that provides structural support, sh
 
 ## Dynein
 A large motor protein that "walks" along microtubules, transporting cellular cargo toward the minus end of the microtubule — typically the cell center (centrosome/nucleus).
+
+## Flagellum
+A single long, whip-like structure projecting from a cell, containing an internal core of microtubules (in eukaryotes) or a filament of flagellin (in bacteria), driven by a rotary or sliding motor.
 
 ## Kinesin
 A motor protein that "walks" along microtubules, transporting cellular cargo (vesicles, organelles, proteins, mRNA) toward the plus end of the microtubule — typically the cell periphery.
