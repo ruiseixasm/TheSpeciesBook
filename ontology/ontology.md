@@ -8,6 +8,9 @@ ontology.
 ## Axoneme
 The central core of a cilium or flagellum, consisting of a precise array of microtubules that generates bending movement through the action of dynein motor proteins.
 
+## Chlamydomonas
+A genus of single-celled, green, flagellated protists (algae) that swim using two flagella, photosynthesize using chloroplasts, and are widely used as a model organism in cell biology, genetics, and evolution research.
+
 ## Cilium
 A single, short, hair-like structure projecting from the cell surface, containing an axoneme (microtubule core) and capable of rhythmic beating.
 
@@ -55,3 +58,14 @@ A globular protein that serves as the building block of microtubules — hollow,
 ADP - Adenosine Diphosphate (two phosphates — spent)
 ATP - Adenosine Triphosphate (full energy)
 P - Free phosphate group
+
+
+# Essays Upon Heredity and Kindred Biological Problems, Volume 1
+
+## Cytokinesis
+The division of the cytoplasm of a cell into two daughter cells, typically following karyokinesis (nuclear division) during mitosis or meiosis.
+
+## karyokinesis 
+The division of a cell's nucleus during mitosis or meiosis, specifically the process by which the chromosomes are separated into two daughter nuclei, preceding cytokinesis (division of the cytoplasm).
+
+
