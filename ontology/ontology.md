@@ -65,7 +65,10 @@ P - Free phosphate group
 ## Cytokinesis
 The division of the cytoplasm of a cell into two daughter cells, typically following karyokinesis (nuclear division) during mitosis or meiosis.
 
-## karyokinesis 
+## Karyokinesis 
 The division of a cell's nucleus during mitosis or meiosis, specifically the process by which the chromosomes are separated into two daughter nuclei, preceding cytokinesis (division of the cytoplasm).
+
+## Parthenogenetic
+Relating to or characterized by parthenogenesis — a form of asexual reproduction in which an unfertilized egg develops into a new individual without any genetic contribution from a male.
 
 
