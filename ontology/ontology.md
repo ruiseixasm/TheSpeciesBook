@@ -65,6 +65,9 @@ P - Free phosphate group
 ## Cytokinesis
 The division of the cytoplasm of a cell into two daughter cells, typically following karyokinesis (nuclear division) during mitosis or meiosis.
 
+## Epithelial
+Relating to or consisting of epithelium — the thin, continuous layer of cells that covers the external surfaces of the body (skin) and lines the internal cavities, organs, and tubes (e.g., gut, blood vessels, lungs).
+
 ## Karyokinesis 
 The division of a cell's nucleus during mitosis or meiosis, specifically the process by which the chromosomes are separated into two daughter nuclei, preceding cytokinesis (division of the cytoplasm).
 
