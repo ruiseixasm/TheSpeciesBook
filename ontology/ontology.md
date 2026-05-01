@@ -68,6 +68,9 @@ The division of the cytoplasm of a cell into two daughter cells, typically follo
 ## Epithelial
 Relating to or consisting of epithelium — the thin, continuous layer of cells that covers the external surfaces of the body (skin) and lines the internal cavities, organs, and tubes (e.g., gut, blood vessels, lungs).
 
+## Histology
+The branch of biology and medicine concerned with the microscopic structure of tissues, including their cellular organization, extracellular matrix, and how tissue structure relates to function.
+
 ## Karyokinesis 
 The division of a cell's nucleus during mitosis or meiosis, specifically the process by which the chromosomes are separated into two daughter nuclei, preceding cytokinesis (division of the cytoplasm).
 
