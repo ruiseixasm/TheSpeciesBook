@@ -71,7 +71,7 @@ Relating to or consisting of epithelium — the thin, continuous layer of cells 
 ## Histology
 The branch of biology and medicine concerned with the microscopic structure of tissues, including their cellular organization, extracellular matrix, and how tissue structure relates to function.
 
-## Karyokinesis 
+## Karyokinesis
 The division of a cell's nucleus during mitosis or meiosis, specifically the process by which the chromosomes are separated into two daughter nuclei, preceding cytokinesis (division of the cytoplasm).
 
 ## Parthenogenetic
@@ -80,3 +80,5 @@ Relating to or characterized by parthenogenesis — a form of asexual reproducti
 ## Protoplasm
 The living substance inside a cell, comprising the cytoplasm and the nucleus, considered in the 19th and early 20th centuries to be the physical basis of life — a semi-fluid, jelly-like material that performed all vital functions.
 
+## Somatic
+Relating to the body, specifically to the soma (the body cells) as distinct from the germ cells (reproductive cells). Somatic cells are all the cells of a multicellular organism except the egg and sperm (or their precursors).
