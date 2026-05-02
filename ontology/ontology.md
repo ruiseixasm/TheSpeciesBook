@@ -77,4 +77,6 @@ The division of a cell's nucleus during mitosis or meiosis, specifically the pro
 ## Parthenogenetic
 Relating to or characterized by parthenogenesis — a form of asexual reproduction in which an unfertilized egg develops into a new individual without any genetic contribution from a male.
 
+## Protoplasm
+The living substance inside a cell, comprising the cytoplasm and the nucleus, considered in the 19th and early 20th centuries to be the physical basis of life — a semi-fluid, jelly-like material that performed all vital functions.
 
